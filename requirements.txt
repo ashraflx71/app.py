@@ -1,7 +1,0 @@
-streamlit
-pandas
-numpy
-# أضف أي مكتبات أخرى تستخدمها هنا، مثلاً:
-# matplotlib
-# plotly
-# openpyxl
